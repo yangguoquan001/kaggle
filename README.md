@@ -1,2 +1,2 @@
 # kaggle
-My algorithm for kaggle competition
+My algorithm for kaggle competition or dataset
